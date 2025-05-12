@@ -24,7 +24,7 @@ A Python-based GUI tool for real-time monitoring of PlayStation 5 UART output. T
 
 🚀 Getting Started
 
-    Clone the repository:
+  Clone the repository:
 
 git clone https://github.com/Sn0op1/ps5-uart-dashboard.git
 
