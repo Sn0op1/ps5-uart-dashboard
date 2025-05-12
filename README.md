@@ -44,9 +44,9 @@ Run the application:
 
         Click "Connect" to start monitoring.
 
-#🖼️ Screenshots
+## 🖼️ Screenshots
 
-#Include screenshots of the application interface here to showcase its features.
+## Include screenshots of the application interface here to showcase its features.
 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
