@@ -1,4 +1,4 @@
-# 📦 Requirements
+## 📦 Requirements
 
 - **Python 3.x**: Ensure you have Python installed. [Download Python](https://www.python.org/downloads/)
 - **Install Dependencies**: 
