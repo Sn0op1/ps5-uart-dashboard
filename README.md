@@ -57,14 +57,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 For questions or suggestions, feel free to open an issue or contact me directly through my GitHub profile.
 
 
-### What to Do:
-
-1. **Copy the full content** above.
-2. Go to your GitHub repository for `ps5-uart-dashboard`.
-3. Open the `README.md` file.
-4. Replace whatever is currently there with the content you just copied.
-5. Scroll down to the "Commit changes" section.
-6. Commit the change with a message like "Update README with detailed project information".
-7. Click "Commit changes".
-
-This will fully update your `README.md` with the project details, requirements, setup steps, and more.
