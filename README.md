@@ -27,6 +27,7 @@ pip install -r requirements.txt
 Clone the repository:
 
 git clone https://github.com/Sn0op1/ps5-uart-dashboard.git
+
 cd ps5-uart-dashboard
 
 Install dependencies:
