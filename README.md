@@ -4,7 +4,7 @@ A Python-based GUI tool for real-time monitoring of PlayStation 5 UART output. T
 
 ---
 
-## 🛠️ Features
+# 🛠️ Features
 
 - **Real-time UART Monitoring**: Connect to your PS5's UART interface and view live logs.
 - **Error Code Detection**: Automatically identifies and decodes known PS5 error codes.
@@ -14,7 +14,7 @@ A Python-based GUI tool for real-time monitoring of PlayStation 5 UART output. T
 
 ---
 
-## 📦 Requirements
+# 📦 Requirements
 
 - **Python 3.x**: Ensure you have Python installed. [Download Python](https://www.python.org/downloads/)
 - **Install Dependencies**: To install required dependencies, run:
@@ -44,9 +44,6 @@ Run the application:
 
         Click "Connect" to start monitoring.
 
-## 🖼️ Screenshots
-
-## Include screenshots of the application interface here to showcase its features.
 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
