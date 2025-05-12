@@ -1,32 +1,70 @@
-## 📦 Requirements
+# PS5 UART Dashboard
 
-- **Python 3.x**: Ensure you have Python installed. [Download Python](https://www.python.org/downloads/)
-- **Install Dependencies**: 
-    To install required dependencies, run:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
+A Python-based GUI tool for real-time monitoring of PlayStation 5 UART output. This application detects system errors, decodes known error codes, and provides an intuitive interface for log analysis.
 
 ---
 
-### 🚀 Getting Started
+## 🛠️ Features
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sn0op1/ps5-uart-dashboard.git
-   cd ps5-uart-dashboard
+- **Real-time UART Monitoring**: Connect to your PS5's UART interface and view live logs.
+- **Error Code Detection**: Automatically identifies and decodes known PS5 error codes.
+- **Search & Filter Logs**: Easily search through logs to find relevant information.
+- **Log Saving**: Option to save logs for future reference or analysis.
+- **User-Friendly Interface**: Built with Tkinter for a straightforward and accessible GUI.
 
-    Install dependencies:
+---
+
+## 📦 Requirements
+
+- **Python 3.x**: Ensure you have Python installed. [Download Python](https://www.python.org/downloads/)
+- **Install Dependencies**: To install required dependencies, run:
+  
+  ```bash
+  pip install -r requirements.txt
+
+🚀 Getting Started
+
+    Clone the repository:
+
+git clone https://github.com/Sn0op1/ps5-uart-dashboard.git
+cd ps5-uart-dashboard
+
+Install dependencies:
 
 pip install -r requirements.txt
 
 Run the application:
 
-python ps5_uart_log_dashboard.py
+    python ps5_uart_log_dashboard.py
 
-Connect to PS5 UART:
+    Connect to PS5 UART:
 
-    Select the appropriate serial port and baud rate.
+        Select the appropriate serial port and baud rate.
 
-    Click "Connect" to start monitoring.
+        Click "Connect" to start monitoring.
+
+🖼️ Screenshots
+
+Include screenshots of the application interface here to showcase its features.
+📄 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+🤝 Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+📫 Contact
+
+For questions or suggestions, feel free to open an issue or contact me directly through my GitHub profile.
+
+
+### What to Do:
+
+1. **Copy the full content** above.
+2. Go to your GitHub repository for `ps5-uart-dashboard`.
+3. Open the `README.md` file.
+4. Replace whatever is currently there with the content you just copied.
+5. Scroll down to the "Commit changes" section.
+6. Commit the change with a message like "Update README with detailed project information".
+7. Click "Commit changes".
+
+This will fully update your `README.md` with the project details, requirements, setup steps, and more.
