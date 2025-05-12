@@ -51,14 +51,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 📫 Contact
 
 For questions or suggestions, feel free to open an issue or contact me directly through my GitHub profile.
-📄 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-🤝 Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-📫 Contact
-
-For questions or suggestions, feel free to open an issue or contact me directly through my GitHub profile.
 
 
