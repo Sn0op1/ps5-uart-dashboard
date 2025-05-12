@@ -43,7 +43,7 @@ python3 ps5_uart_log_dashboard.py
 To enable decoding of PS5 hardware error codes, the tool uses an external JSON file.
 How to Get the Error Code File
 
-Download ErrorCodes.json from the official source here:
+Download ErrorCodes.json from the official source here: 
 👉 https://github.com/amoamare/PS5CodeReader/blob/master/ErrorCodes.json
 
 Place the downloaded file in the same directory as ps5_uart_log_dashboard.py.
