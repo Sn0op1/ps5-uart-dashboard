@@ -22,7 +22,6 @@ A Python-based GUI tool for real-time monitoring of PlayStation 5 UART output. T
 ```bash
 pip install -r requirements.txt
 
-
 🚀 Getting Started
 
     Clone the repository:
@@ -30,13 +29,13 @@ pip install -r requirements.txt
 git clone https://github.com/Sn0op1/ps5-uart-dashboard.git
 cd ps5-uart-dashboard
 
-Install dependencies:
+    Install dependencies:
 
 pip install -r requirements.txt
 
-Run the application:
+    Run the application:
 
-    python ps5_uart_log_dashboard.py
+python ps5_uart_log_dashboard.py
 
     Connect to PS5 UART:
 
@@ -53,6 +52,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 📫 Contact
 
 For questions or suggestions, feel free to open an issue or contact me directly through my GitHub profile.
-
-
 
